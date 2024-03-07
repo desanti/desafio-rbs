@@ -1,0 +1,5 @@
+config/*
+hooks/*
+operators/*
+packages/*
+projects/*
